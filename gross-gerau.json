@@ -2,7 +2,7 @@
   "name": "Freifunk Groß-Gerau",
   "url": "https://www.freifunk-gg.de",
   "location": {
-    "city": "Kreis Groß-Gerau",
+    "city": "Groß-Gerau",
     "country": "DE",
     "lat": 49.922474268,
     "lon": 8.483683309
@@ -10,16 +10,17 @@
   "contact": {
     "email": "Info@freifunk-gg.de"
   },
+  "metacommunity": "ffda, ffmwu, ffffm",
   "state": {
     "focus": [
       "Public Free Wifi",
       "Free internet access"
     ],
-    "lastchange": "2020-09-06T18:51:16.180Z"
+    "lastchange": "2020-09-06T20:39:51.810Z"
   },
   "nodeMaps": [
     {
-      "url": "https://map.freifunk-gg.de",
+      "url": "https://map.freifunk-gg.de/",
       "technicalType": "meshviewer",
       "mapType": "list/status"
     }

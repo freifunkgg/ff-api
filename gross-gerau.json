@@ -10,13 +10,12 @@
   "contact": {
     "email": "Info@freifunk-gg.de"
   },
-  "metacommunity": "Freifunk KT",
   "state": {
     "focus": [
       "Public Free Wifi",
       "Free internet access"
     ],
-    "lastchange": "2020-09-06T18:06:15.073Z"
+    "lastchange": "2020-09-06T18:51:16.180Z"
   },
   "nodeMaps": [
     {

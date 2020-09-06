@@ -1,0 +1,37 @@
+{
+  "name": "Freifunk Groß-Gerau",
+  "url": "https://www.freifunk-gg.de",
+  "location": {
+    "city": "Kreis Groß-Gerau",
+    "country": "DE",
+    "lat": 49.922474268,
+    "lon": 8.483683309
+  },
+  "contact": {
+    "email": "Info@freifunk-gg.de"
+  },
+  "metacommunity": "Freifunk KT",
+  "state": {
+    "focus": [
+      "Public Free Wifi",
+      "Free internet access"
+    ],
+    "lastchange": "2020-09-06T18:06:15.073Z"
+  },
+  "nodeMaps": [
+    {
+      "url": "https://map.freifunk-gg.de",
+      "technicalType": "meshviewer",
+      "mapType": "list/status"
+    }
+  ],
+  "techDetails": {
+    "firmware": {
+      "url": "https://fw.freifunk-gg.de"
+    },
+    "routing": [],
+    "updatemode": [],
+    "legals": []
+  },
+  "api": "0.4.14"
+}

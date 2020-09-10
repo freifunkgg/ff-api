@@ -10,13 +10,12 @@
   "contact": {
     "email": "Info@freifunk-gg.de"
   },
-  "metacommunity": "ffda, ffmwu, ffffm",
   "state": {
     "focus": [
       "Public Free Wifi",
       "Free internet access"
     ],
-    "lastchange": "2020-09-06T20:39:51.810Z"
+    "lastchange": "2020-09-10T10:18:52.680Z"
   },
   "nodeMaps": [
     {
